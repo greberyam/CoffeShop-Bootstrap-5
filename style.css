@@ -1,0 +1,20 @@
+
+*{
+    font-family: 'Dancing Script', cursive;
+}
+.container{
+    margin-top: -8%;
+    gap: 150px;
+}
+#cartadded{
+    margin-top: 0%;
+}
+.addtocart{
+    margin-left: 80%;
+}
+.socialMedia{
+    cursor: pointer;
+}
+.card-title{
+    gap: 20px;
+}
